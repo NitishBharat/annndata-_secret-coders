@@ -1,4 +1,7 @@
-# annndata_secret-coders
-A WEBSITE FOR SYSTEMATIC FARMING FOR FARMERS IN LOCAL LANGUAGE.
-AT ANNDATA, WE HOLD OURSELVES ACCOUNTABLE FOR PROVIDING THE MOST EFFICIENT SOLUTIONS TO INCREASE FARMING CAPABILITY TODAY WHILE PRESERVING OUR ENVIRONMENTS FOR FUTURE GENERATIONS.
-THE ANNDATA COMMUNITY KNOWS THAT THE ENVIRONMENT AND LAND MUST BE TREATED PROPERLY AND IN SUSTAINABLE WAYS NOW TO HAVE STRONG FARMS AND FARMING COMMUNITIES DOWN THE ROAD.
+# ANNNDATA_SECRET-CODERS
+a website for systematic farming for farmers in local language.
+at anndata, we hold ourselves accountable for providing the most efficient solutions to increase farming capability today while preserving our environments for future generations.
+the anndata community knows that the environment and land must be treated properly and in sustainable ways now to have strong farms and farming communities down the road.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Website link--> https://nitishbharat.github.io/annndata_secret-coders/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
